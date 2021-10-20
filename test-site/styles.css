@@ -1,0 +1,12 @@
+h1 {color: green;}
+p, li {color: red;}
+ul {list-style-type: circle;}
+
+.seegreen 
+{color: seagree;
+border: 5px solid black;
+font-weight: bold;}
+
+em {
+    color: red;}
+
